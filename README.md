@@ -1,11 +1,17 @@
 # FikaShop-project
 Full Stack project, built by Django framework, it's a shopping website with live chat service ,where you can buy your coffee and enjoy chatting with your friend 
-![127 0 0 1_8000_home_(Nest Hub Max) (1)](https://user-images.githubusercontent.com/79480685/174018982-4e20a5f6-8329-47d2-9d0c-22939e1be907.png)
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/79480685/174022908-2cbb19a4-6aa3-49c0-827d-7d83d6c74e9e.png">
+![127 0 0 1_8000_home_(Nest Hub Max) (4)](https://user-images.githubusercontent.com/79480685/174024422-66d3c18b-a502-4e2f-8c32-bf8f850e728f.png)
+
+<img width="956" alt="image" src="https://user-images.githubusercontent.com/79480685/174024608-13677138-1b70-4e45-818d-404746b5b591.png">
+
+
 
 # Features :
-
+ Buy your favorite beans 
+ Get inspired about coffee tips and trick all over the world
+ Grab your coffee and chat with your the other coffee lover to share your experience in coffee world
 
 # Installation :
 
@@ -17,17 +23,18 @@ Full Stack project, built by Django framework, it's a shopping website with live
       argon2-cffi
       django-widget_tweaks
       django-formtags
-     
+  3-   
 ```
-3- pyton manage.py makemigration  
+ pyton manage.py makemigration  
 ```
 
  
-     
+  4-   
  ```
- 4- pyton manage.py migrate
+  pyton manage.py migrate
 ```
+5-
 ```
-5-  pyton manage.py runserver 
+  pyton manage.py runserver 
 
 ```
